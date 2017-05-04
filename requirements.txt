@@ -1,0 +1,8 @@
+Django==1.10.6
+Flask==0.12.1
+Flask-SQLAlchemy==2.2
+Flask-WTF==0.14.2
+MySQL-python==1.2.5
+pdfkit==0.6.1
+XlsxWriter==0.9.6
+
