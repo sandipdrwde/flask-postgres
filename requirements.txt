@@ -1,4 +1,4 @@
-Django==1.10.6
+Django==1.11.28
 Flask==0.12.1
 Flask-SQLAlchemy==2.2
 Flask-WTF==0.14.2
